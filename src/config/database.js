@@ -1,6 +1,6 @@
 module.exports = {
       url: process.env.DATABASE_URL ||  
-    "postgres://postgres:bcd147@localhost:5432/db_Guardian", 
+    "postgres://postgres:bcd127@localhost:5432/dbGamesCenter", 
       config: { 
         dialect: "postgres",
         "dialectOptions": {
